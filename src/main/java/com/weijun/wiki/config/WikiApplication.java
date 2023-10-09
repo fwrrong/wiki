@@ -1,11 +1,13 @@
-package com.weijun.wiki;
+package com.weijun.wiki.config;
 
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
 
+@ComponentScan("com.weijun")
 @SpringBootApplication
 public class WikiApplication {
 
@@ -15,7 +17,7 @@ public class WikiApplication {
 		SpringApplication app = new SpringApplication(WikiApplication.class);
 		Environment env = app.run(args).getEnvironment();
 		LOG.info("run successfully");
-		LOG.info("address: \thttp://127.0.0.1:{}", env.getProperty("server.port"));
+		LOG.info("address: \thttp://localhost:{}", env.getProperty("server.port"));
 	}
 
 }
