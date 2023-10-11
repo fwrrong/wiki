@@ -6,3 +6,5 @@ CREATE TABLE `test`(
                        `password` VARCHAR(50) COMMENT 'password',
                        PRIMARY KEY (`id`)
 ) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4 COMMENT = 'test';
+
+insert into `test` (id, name, password) values (1, 'test', 'password');
