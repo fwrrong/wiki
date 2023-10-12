@@ -1,3 +1,4 @@
+/log/
 .log/
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -25,7 +26,9 @@ javax/
 junit/
 log4j/
 logkit/
+mysql/
 net/
+xml-apis/
 org/
 oro/
 
