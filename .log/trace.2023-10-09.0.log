@@ -1,0 +1,284 @@
+2023-10-09 02:08:35.686 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7412 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:08:35.688 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:08:36.153 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:08:36.159 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:08:36.159 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:08:36.160 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:08:36.191 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:08:36.191 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 478 ms
+2023-10-09 02:08:36.286 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:08:36.366 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:08:36.378 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:08:36.389 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.926 seconds (JVM running for 1.127)
+2023-10-09 02:08:36.390 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:08:36.391 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://127.0.0.1:()
+2023-10-09 02:09:35.404 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:09:38.974 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7447 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:09:38.976 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:09:39.440 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:09:39.445 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:09:39.445 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:09:39.446 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:09:39.473 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:09:39.474 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 473 ms
+2023-10-09 02:09:39.559 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:09:39.635 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:09:39.646 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:09:39.652 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.913 seconds (JVM running for 1.109)
+2023-10-09 02:09:39.653 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:09:39.654 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://127.0.0.1:8880
+2023-10-09 02:12:25.871 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:12:28.954 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7573 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:12:28.956 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:12:29.475 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:12:29.480 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:12:29.481 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:12:29.481 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:12:29.516 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:12:29.516 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 531 ms
+2023-10-09 02:12:29.614 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:12:29.694 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:12:29.706 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:12:29.713 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.992 seconds (JVM running for 1.193)
+2023-10-09 02:12:29.714 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:12:29.715 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://127.0.0.1:8880
+2023-10-09 02:15:19.492 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:15:22.642 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7662 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:15:22.643 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:15:23.081 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:15:23.086 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:15:23.087 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:15:23.087 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:15:23.117 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:15:23.117 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 449 ms
+2023-10-09 02:15:23.207 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:15:23.285 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:15:23.297 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:15:23.303 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.889 seconds (JVM running for 1.086)
+2023-10-09 02:15:23.305 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:15:23.305 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://127.0.0.1:8880
+2023-10-09 02:20:50.655 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:20:54.275 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7858 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:20:54.277 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:20:54.717 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:20:54.722 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:20:54.722 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:20:54.722 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:20:54.750 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:20:54.750 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 449 ms
+2023-10-09 02:20:54.837 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:20:54.915 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:20:54.926 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:20:54.933 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.886 seconds (JVM running for 1.083)
+2023-10-09 02:20:54.935 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:20:54.935 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://127.0.0.1:8880
+2023-10-09 02:20:57.627 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 02:20:57.627 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 02:20:57.628 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-09 02:21:40.359 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:21:44.113 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 7901 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 02:21:44.114 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 02:21:44.551 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 02:21:44.555 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:21:44.556 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 02:21:44.556 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 02:21:44.584 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 02:21:44.584 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 445 ms
+2023-10-09 02:21:44.671 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 02:21:44.753 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 02:21:44.764 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 02:21:44.771 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.886 seconds (JVM running for 1.082)
+2023-10-09 02:21:44.772 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 02:21:44.773 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 02:21:48.244 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 02:21:48.244 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 02:21:48.245 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-09 02:30:25.809 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:22:41.630 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 17275 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 14:22:41.632 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 14:22:42.101 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 14:22:42.108 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:22:42.108 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 14:22:42.108 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 14:22:42.139 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 14:22:42.139 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 480 ms
+2023-10-09 14:22:42.229 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:22:42.311 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:22:42.330 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 14:22:42.337 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.958 seconds (JVM running for 1.174)
+2023-10-09 14:22:42.339 INFO  com.weijun.wiki.WikiApplication                   :17   [32m                  [0;39m run successfully
+2023-10-09 14:22:42.339 INFO  com.weijun.wiki.WikiApplication                   :18   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 14:27:00.419 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:27:04.177 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 17404 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 14:27:04.179 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 14:27:04.621 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 14:27:04.626 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:27:04.627 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 14:27:04.627 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 14:27:04.654 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 14:27:04.654 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 450 ms
+2023-10-09 14:27:04.745 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:27:04.825 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:27:04.837 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 14:27:04.843 INFO  com.weijun.wiki.config.WikiApplication            :61   [32m                  [0;39m Started WikiApplication in 0.889 seconds (JVM running for 1.084)
+2023-10-09 14:27:04.844 INFO  com.weijun.wiki.config.WikiApplication            :19   [32m                  [0;39m run successfully
+2023-10-09 14:27:04.845 INFO  com.weijun.wiki.config.WikiApplication            :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 14:27:07.102 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 14:27:07.102 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 14:27:07.103 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-09 14:29:42.869 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:29:46.566 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 17493 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 14:29:46.568 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 14:29:47.037 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 14:29:47.042 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:29:47.043 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 14:29:47.043 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 14:29:47.072 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 14:29:47.073 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 479 ms
+2023-10-09 14:29:47.160 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:29:47.245 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:29:47.258 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 14:29:47.265 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 0.929 seconds (JVM running for 1.132)
+2023-10-09 14:29:47.268 INFO  com.weijun.wiki.WikiApplication                   :19   [32m                  [0;39m run successfully
+2023-10-09 14:29:47.268 INFO  com.weijun.wiki.WikiApplication                   :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 14:29:48.869 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 14:29:48.870 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 14:29:48.870 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-10-09 14:30:33.173 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:30:36.449 INFO  com.weijun.wiki.WikiApplication                   :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 17522 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 14:30:36.450 INFO  com.weijun.wiki.WikiApplication                   :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 14:30:36.961 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 14:30:36.967 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:30:36.968 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 14:30:36.968 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 14:30:37.003 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 14:30:37.003 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 526 ms
+2023-10-09 14:30:37.116 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:30:37.207 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:30:37.219 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 14:30:37.226 INFO  com.weijun.wiki.WikiApplication                   :61   [32m                  [0;39m Started WikiApplication in 1.02 seconds (JVM running for 1.223)
+2023-10-09 14:30:37.228 INFO  com.weijun.wiki.WikiApplication                   :19   [32m                  [0;39m run successfully
+2023-10-09 14:30:37.229 INFO  com.weijun.wiki.WikiApplication                   :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 14:30:38.537 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 14:30:38.538 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 14:30:38.538 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-10-09 14:30:57.806 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:31:01.498 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 17558 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 14:31:01.500 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 14:31:01.956 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 14:31:01.962 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:31:01.962 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 14:31:01.962 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 14:31:01.990 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 14:31:01.990 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 462 ms
+2023-10-09 14:31:02.074 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 14:31:02.148 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 14:31:02.159 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 14:31:02.165 INFO  com.weijun.wiki.config.WikiApplication            :61   [32m                  [0;39m Started WikiApplication in 0.898 seconds (JVM running for 1.124)
+2023-10-09 14:31:02.167 INFO  com.weijun.wiki.config.WikiApplication            :19   [32m                  [0;39m run successfully
+2023-10-09 14:31:02.167 INFO  com.weijun.wiki.config.WikiApplication            :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 14:31:04.346 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 14:31:04.346 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 14:31:04.347 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-09 15:41:11.965 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:41:15.096 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 19487 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 15:41:15.098 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 15:41:15.565 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 15:41:15.570 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:15.570 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 15:41:15.571 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 15:41:15.602 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 15:41:15.603 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 476 ms
+2023-10-09 15:41:15.690 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:41:15.771 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:15.787 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 15:41:15.794 INFO  com.weijun.wiki.config.WikiApplication            :61   [32m                  [0;39m Started WikiApplication in 0.937 seconds (JVM running for 1.138)
+2023-10-09 15:41:15.796 INFO  com.weijun.wiki.config.WikiApplication            :19   [32m                  [0;39m run successfully
+2023-10-09 15:41:15.796 INFO  com.weijun.wiki.config.WikiApplication            :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 15:41:24.983 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 19496 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 15:41:24.984 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 15:41:25.317 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 15:41:25.320 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:25.320 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 15:41:25.320 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 15:41:25.341 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 15:41:25.342 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 338 ms
+2023-10-09 15:41:25.415 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:41:25.478 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:25.484 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8880 is already in use
+2023-10-09 15:41:25.485 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:41:25.486 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:25.487 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-10-09 15:41:25.491 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:25.491 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:41:25.495 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-10-09 15:41:25.502 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8880 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8880 or configure this application to listen on another port.
+
+2023-10-09 15:41:44.169 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 15:41:44.169 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 15:41:44.170 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-10-09 15:44:57.649 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 19613 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 15:44:57.651 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 15:44:57.987 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 15:44:57.990 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:44:57.991 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 15:44:57.991 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 15:44:58.011 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 15:44:58.012 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 341 ms
+2023-10-09 15:44:58.080 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:44:58.142 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:44:58.149 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:596  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8880 is already in use
+2023-10-09 15:44:58.149 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:44:58.151 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:44:58.151 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-10-09 15:44:58.154 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:44:58.155 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:44:58.158 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener:136  [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-10-09 15:44:58.164 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8880 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8880 or configure this application to listen on another port.
+
+2023-10-09 15:45:09.691 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:45:12.749 INFO  com.weijun.wiki.config.WikiApplication            :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_382 on hans-MacBook-Pro.local with PID 19625 (/Users/fanweijun/Desktop/project/wiki/target/classes started by fanweijun in /Users/fanweijun/Desktop/project/wiki)
+2023-10-09 15:45:12.750 INFO  com.weijun.wiki.config.WikiApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2023-10-09 15:45:13.099 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
+2023-10-09 15:45:13.103 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:45:13.103 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-09 15:45:13.103 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2023-10-09 15:45:13.123 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-09 15:45:13.124 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 354 ms
+2023-10-09 15:45:13.190 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-09 15:45:13.255 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
+2023-10-09 15:45:13.264 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
+2023-10-09 15:45:13.272 INFO  com.weijun.wiki.config.WikiApplication            :61   [32m                  [0;39m Started WikiApplication in 0.689 seconds (JVM running for 0.904)
+2023-10-09 15:45:13.273 INFO  com.weijun.wiki.config.WikiApplication            :19   [32m                  [0;39m run successfully
+2023-10-09 15:45:13.273 INFO  com.weijun.wiki.config.WikiApplication            :20   [32m                  [0;39m address: 	http://localhost:8880
+2023-10-09 15:45:18.711 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-09 15:45:18.711 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-09 15:45:18.712 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms

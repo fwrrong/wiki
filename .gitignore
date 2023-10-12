@@ -3,6 +3,31 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+aopalliance/
+asm/
+avalon-framework/
+backport-util-concurrent/
+ch/
+classworlds/
+com/
+commons-beanutils/
+commons-chain/
+commons-codec/
+commons-collections/
+commons-digester/
+commons-io/
+commons-lang/
+commons-logging/
+dom4j/
+io/
+jakarta/
+javax/
+junit/
+log4j/
+logkit/
+net/
+org/
+oro/
 
 ### STS ###
 .apt_generated
