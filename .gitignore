@@ -26,11 +26,11 @@ javax/
 junit/
 log4j/
 logkit/
-mysql/
 net/
-xml-apis/
 org/
 oro/
+xml-apis/
+mysql/
 
 ### STS ###
 .apt_generated
