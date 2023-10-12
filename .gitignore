@@ -10,7 +10,7 @@ avalon-framework/
 backport-util-concurrent/
 ch/
 classworlds/
-com/
+/com/
 commons-beanutils/
 commons-chain/
 commons-codec/
